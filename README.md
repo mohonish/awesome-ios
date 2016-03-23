@@ -10,7 +10,8 @@ A curated list of awesome __iOS__ libraries, frameworks, components and much mor
 - [Analytics and Reporting](#analytics-and-reporting)
 
 ## Style Guides
- * [Raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
+ * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) by Raywenderlich.com
+ * [iOS Best Practices](https://github.com/futurice/ios-good-practices) by Futurice
 
 ## Parsing
  * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - Simple JSON parsing in Swift.
