@@ -3,7 +3,6 @@
 A curated list of awesome __iOS__ libraries, frameworks, components and much more.
 
 ### Contents
-
 - [Style Guides](#style-guides)
 - [Parsing](#parsing)
 - [Testing](#testing)
@@ -12,6 +11,7 @@ A curated list of awesome __iOS__ libraries, frameworks, components and much mor
 ## Style Guides
  * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) by Raywenderlich.com
  * [iOS Best Practices](https://github.com/futurice/ios-good-practices) by Futurice
+ * [Design Patterns](https://github.com/ochococo/Design-Patterns-In-Swift) implemented in Swift.
 
 ## Parsing
  * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - Simple JSON parsing in Swift.
